@@ -6,6 +6,6 @@
 
 💡 &nbsp; My solutions to alogrithms on codewars: [solutions](https://www.codewars.com/users/raf0nx/completed_solutions).
 
-💞️ &nbsp; I’m looking to collaborate on some interesting projects using vue.js and typescript for frontend and node.js with whatever framework on backend.
+💞️ &nbsp; I’m looking forward to collaborate on some interesting projects using vue.js and typescript for frontend and node.js with whatever framework on backend.
 
 📫 &nbsp; How to reach me: rafalpawlowski2011@gmail.com
