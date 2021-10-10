@@ -4,7 +4,7 @@
 
 🌱 &nbsp; I’m currently learning to write better and cleaner code, algorithms, data structures and some new javascript and node.js frameworks.
 
-💡 &nbsp; My solutions to algorithms on codewars: [solutions](https://www.codewars.com/users/raf0nx/completed_solutions).
+💡 &nbsp; My solutions to algorithms on codewars: [solutions](https://www.codewars.com/users/raf0nx/completed).
 
 💞️ &nbsp; I’m looking forward to collaborate on some interesting projects using vue.js and typescript for frontend and node.js with whatever framework on the backend.
 
