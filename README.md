@@ -8,4 +8,4 @@
 
 💞️ &nbsp; I’m looking forward to collaborate on some interesting projects using vue.js and typescript for frontend and node.js with whatever framework on the backend.
 
-📫 &nbsp; How to reach me: rafalpawlowski2011@gmail.com, [LinkedIn](https://www.linkedin.com/in/rafa%C5%82-paw%C5%82owski-485b8a1b4/)
+📫 &nbsp; How to reach me: pawlowski.rafal16@gmail.com, [LinkedIn](https://www.linkedin.com/in/rafa%C5%82-paw%C5%82owski-485b8a1b4/)
