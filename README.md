@@ -1,6 +1,6 @@
 👋 &nbsp; Hi, I’m @raf0nx
 
-👀 &nbsp; I’m interested in software development, automotive, new technologies and strength sports.
+🚗 &nbsp; I’m interested in software development, automotive, new technologies and strength sports.
 
 🌱 &nbsp; I’m currently learning algorithms and data structures with the help of AlgoExpert and also advanced TypeScript.
 
