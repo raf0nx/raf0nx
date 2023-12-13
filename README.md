@@ -1,4 +1,4 @@
-👋 &nbsp; Hi, I’m @raf0nx.
+👋 &nbsp; Hi, I’m Rafał.
 
 🚗 &nbsp; I’m interested in software development, automotive, new technologies and strength sports.
 
